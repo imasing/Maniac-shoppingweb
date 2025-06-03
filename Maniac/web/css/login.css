@@ -1,0 +1,23 @@
+body {
+    background-image: url("pictures/logoManiac.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    display: flex;
+    justify-content: center;
+    /* Căn giữa theo chiều ngang */
+    align-items: center;
+    /* Căn giữa theo chiều dọc */
+    height: 100vh;
+    margin: 0;
+    
+}
+
+.form_login{
+    background-color: rgba(128, 128, 128, 0.5) !important;
+}
+
+.title{
+    display: flex;
+    justify-content: center;
+}
